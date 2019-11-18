@@ -1,4 +1,4 @@
 
-<version: 0.01>
+<version: 1.00>
 /data/test.zip https://downloads.cncnet.org/RA1installer.exe
 <end of version>
