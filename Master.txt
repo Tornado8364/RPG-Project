@@ -1,4 +1,4 @@
 
 <version: 0.01>
-/data/test.zip http://wordpress.org/latest.zip
+/data/test.zip https://downloads.cncnet.org/RA1installer.exe
 <end of version>
